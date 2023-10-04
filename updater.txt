@@ -1,0 +1,18 @@
+{
+  "otakuz_update": [
+    {
+ "version":"9.62",
+ "title":"Update Application",
+ "description":"OtakuZ Oficial V9.65
+
+Base: 2.23 1.76
+
+〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+
+New Update System 
+
+ Update Now Available ",
+"download":"https://www.mediafire.com/file/fqoxwy5d85yosrk/OtakuZ_1.0.3_opt_edit.apk/file"
+}
+  ]
+}
